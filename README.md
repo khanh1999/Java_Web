@@ -1,4 +1,4 @@
-# Mô tả website bán giầy - Java web
+# Mô tả website bán giày - Java web
 ## Sử dụng SQL server xây dựng database
 
 ## Home page
@@ -23,3 +23,4 @@
 ![](pic/qltk.png)
 ### Quản lý sản phẩm
 ![](pic/qlsp.png)
+# End.
